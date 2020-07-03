@@ -19,7 +19,9 @@
     "multer": "^1.4.2",
     "pg": "^8.0.0",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.24"
+    "typeorm": "^0.2.24",
+    "uuid": "^7.0.3",
+    "uuidv4": "^6.0.7"
   },
   "devDependencies": {
     "@types/express": "4.17.3",
